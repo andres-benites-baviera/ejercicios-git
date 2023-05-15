@@ -93,6 +93,18 @@ Nos hemos bebido un par de botellas de vino y ejecutamos
 ```
 git reset --hard master
 ```
+#### Solución 3
+
+Al ejecutar un git reset con la opción `---hard`. 
+Hacemos un  reset del puntero `HEAD` , el índice y el árbol de trabajo.
+
+Otras posibles opciones de reset son:
+
+1. `--mixed`, HEAD e índice
+1. `--soft`, únicamente el HEAD
+1. `--keep`, HEAD pero mantiene cambios locales 
+
+
 
 Cambia el diagrama para representar el nuevo estado del repositorio: tanto el grafo de commits como la tabla de branches pueden cambiar.
 
