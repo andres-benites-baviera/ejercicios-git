@@ -52,6 +52,14 @@ git checkout another-idea
 
 Cambia el diagrama para representar el nuevo estado del repositorio: tanto el grafo de commits como la tabla de branches pueden cambiar.
 
+
+##### Respuesta 1
+
+Si realizamos un `git branch [new-branch-name]` y posteriormente  `[git checkout another-idea]` el árbol de commits no cambia.
+Cambia la rama activa a la nueva rama ( e.j. en este caso `another-idea` y desde este momento todo los commits que se realicen serán añadidos a la nueva rama ya que cambiamos el puntero HEAD  a `another-idea`
+
+Podemos observar el valor de **HEAD** con el comando `git show head`. Otra forma de entender el funcionamiento del puntero HEAD es que cuando realizamos un commit el puntero avanza a la siguiente posición en el commit tree.
+
 #### Pregunta 2
 
 Supongamos que hemos decidido integrar los cambios de la rama `idea` a `master`, así que cambiamos de rama y ejecutamos un merge:
