@@ -56,7 +56,8 @@ Cambia el diagrama para representar el nuevo estado del repositorio: tanto el gr
 ##### Respuesta 1
 
 Si realizamos un `git branch [new-branch-name]` y posteriormente  `[git checkout another-idea]` el árbol de commits no cambia.
-Cambia la rama activa a la nueva rama ( e.j. en este caso `another-idea` y desde este momento todo los commits que se realicen serán añadidos a la nueva rama ya que cambiamos el puntero HEAD  a `another-idea`
+Creamos una nueva rama (another idea). Cambiamos la rama activa a la nueva rama ( e.j. en este caso `another-idea` y desde este 
+momento todo los commits que se realicen serán añadidos a la nueva rama ya que modificamos la dirección el puntero HEAD  a `another-idea`
 
 Podemos observar el valor de **HEAD** con el comando `git show head`. Otra forma de entender el funcionamiento del puntero HEAD es que cuando realizamos un commit el puntero avanza a la siguiente posición en el commit tree.
 
@@ -70,6 +71,19 @@ git merge idea
 ```
 
 Cambia el diagrama para representar el nuevo estado del repositorio: tanto el grafo de commits como la tabla de branches pueden cambiar.
+
+#### Solución 2
+
+Si realizamos un `checkout master `  cambiamos de rama a `master` con el mecanismo explicado en la
+solución anterior (Puntero HEAD) posterior mente ejecutamos el comando `git merge idea` en el que fusionamos estas dos ramas. 
+En el caso de que las ramas no hayan divergido, es decir, que exista un proceso lineal de extremo a extremo, se podría realizar un avance 
+rápida como mecanismo de fusión de estos repositorios. Caso contrario, se realiza un **3-way merge** en el que anexa un nuevo nodo integrando estos cambios.
+
+En el caso de existir conflictos, git nos lo hará saber a través de un <font color='red'>MERGE CONFLICT</font> . 
+
+Existen varias **alternativas** para solucionar este problema podemos desde realizar cambios puntuales en uno ( o varios) de los archivos 'conflictivos'
+o ejectutar `git mergetool` para visualizar estos conflictos de una forma más sencilla.
+
 
 #### Pregunta 3
 
