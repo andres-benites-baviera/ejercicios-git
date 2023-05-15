@@ -75,7 +75,7 @@ Cambia el diagrama para representar el nuevo estado del repositorio: tanto el gr
 #### Solución 2
 
 Si realizamos un `checkout master `  cambiamos de rama a `master` con el mecanismo explicado en la
-solución anterior (Puntero HEAD) posterior mente ejecutamos el comando `git merge idea` en el que fusionamos estas dos ramas. 
+solución anterior (Puntero HEAD) posteriormente ejecutamos el comando `git merge idea` en el que fusionamos estas dos ramas. 
 En el caso de que las ramas no hayan divergido, es decir, que exista un proceso lineal de extremo a extremo, se podría realizar un avance 
 rápida como mecanismo de fusión de estos repositorios. Caso contrario, se realiza un **3-way merge** en el que anexa un nuevo nodo integrando estos cambios.
 
@@ -83,6 +83,7 @@ En el caso de existir conflictos, git nos lo hará saber a través de un <font c
 
 Existen varias **alternativas** para solucionar este problema podemos desde realizar cambios puntuales en uno ( o varios) de los archivos 'conflictivos'
 o ejectutar `git mergetool` para visualizar estos conflictos de una forma más sencilla.
+
 
 
 #### Pregunta 3
