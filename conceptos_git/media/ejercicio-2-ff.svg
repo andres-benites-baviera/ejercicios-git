@@ -10,7 +10,7 @@
    stroke-linejoin="round"
    xml:space="preserve"
    id="svg7300"
-   sodipodi:docname="ejercicio_git.svg"
+   sodipodi:docname="ejercicio-2-ff.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -36,13 +36,13 @@
    inkscape:window-height="963"
    id="namedview7302"
    showgrid="false"
-   inkscape:zoom="0.68917659"
-   inkscape:cx="600.71686"
-   inkscape:cy="382.34032"
+   inkscape:zoom="0.97357088"
+   inkscape:cx="593.17715"
+   inkscape:cy="290.16891"
    inkscape:window-x="0"
    inkscape:window-y="38"
    inkscape:window-maximized="0"
-   inkscape:current-layer="g7288"
+   inkscape:current-layer="svg7300"
    inkscape:showpageshadow="2"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
@@ -425,7 +425,7 @@
    class="BackgroundObjects" />
   </g>
  </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(6169.0852,-1554.9819)"
    style="opacity:0.98"
    id="g6917">
         <rect
@@ -607,7 +607,7 @@
    d="m 4932,19928 h 6280"
    id="path6915" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(10164.043,-11800.556)"
    style="opacity:0.98"
    id="g6997">
         <rect
@@ -789,7 +789,7 @@
    d="M 1062,14947 H 7342"
    id="path6995" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(1304.4762,-1663.6883)"
    style="opacity:0.98"
    id="g7077">
         <rect
@@ -971,7 +971,32 @@
    d="m 9943,14905 h 6280"
    id="path7075" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(1783.3846,3492.5334)"
+   style="opacity:0.98"
+   id="id5-9-7">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect7179-9-0" />
+        <path
+   fill="none"
+   stroke="#3465a4"
+   stroke-width="106"
+   stroke-linejoin="round"
+   d="m 12511,9839 v 2136"
+   id="path7181-7-3" />
+        <path
+   fill="#3465a4"
+   stroke="none"
+   d="m 12511,12633 230,-688 h -459 z"
+   id="path7183-0-9" />
+       </g><g
+   transform="translate(1386.0059,-1663.6883)"
    style="opacity:0.98"
    id="g7157">
         <rect
@@ -1153,57 +1178,7 @@
    d="m 9894,9883 h 6280"
    id="path7155" />
        </g><g
-   transform="translate(0,-4299.8172)"
-   style="opacity:0.98"
-   id="id3">
-        <rect
-   class="BoundingBox"
-   stroke="none"
-   fill="none"
-   x="3568"
-   y="14866"
-   width="3864"
-   height="2721"
-   id="rect7161" />
-        <path
-   fill="none"
-   stroke="#3465a4"
-   stroke-width="106"
-   stroke-linejoin="round"
-   d="m 3621,14919 3271,2290"
-   id="path7163" />
-        <path
-   fill="#3465a4"
-   stroke="none"
-   d="m 7431,17586 -432,-583 -264,376 z"
-   id="path7165" />
-       </g><g
-   transform="translate(0,-4299.8172)"
-   style="opacity:0.98"
-   id="id4">
-        <rect
-   class="BoundingBox"
-   stroke="none"
-   fill="none"
-   x="7431"
-   y="14866"
-   width="5134"
-   height="2721"
-   id="rect7170" />
-        <path
-   fill="none"
-   stroke="#3465a4"
-   stroke-width="106"
-   stroke-linejoin="round"
-   d="M 12511,14919 8012,17281"
-   id="path7172" />
-        <path
-   fill="#3465a4"
-   stroke="none"
-   d="m 7431,17586 715,-117 -213,-405 z"
-   id="path7174" />
-       </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(1793.6547,-1609.3351)"
    style="opacity:0.98"
    id="id5">
         <rect
@@ -1228,254 +1203,44 @@
    d="m 12511,12633 230,-688 h -459 z"
    id="path7183" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(1864.9144,-6644.3334)"
    style="opacity:0.98"
-   id="g7288">
+   id="id5-9">
         <rect
    class="BoundingBox"
    stroke="none"
    fill="none"
-   x="18179"
-   y="13859"
-   width="10338"
-   height="6004"
-   id="rect7188" />
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect7179-9" />
         <path
-   fill="#b3b3b3"
-   stroke="none"
-   d="m 18181,13861 h 2992 v 1999 h -2992 z"
-   id="path7190" />
-        <text
-   class="TextShape"
-   id="text7198"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7196"><tspan
-       class="TextPosition"
-       x="18776"
-       y="14558"
-       id="tspan7194"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7192">current</tspan></tspan></tspan></text>
+   fill="none"
+   stroke="#3465a4"
+   stroke-width="106"
+   stroke-linejoin="round"
+   d="m 12511,9839 v 2136"
+   id="path7181-7" />
         <path
-   fill="#b3b3b3"
+   fill="#3465a4"
    stroke="none"
-   d="m 21173,13861 h 3111 v 1999 h -3111 z"
-   id="path7200" />
-        <text
-   class="TextShape"
-   id="text7208"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7206"><tspan
-       class="TextPosition"
-       x="21863"
-       y="14558"
-       id="tspan7204"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7202">branch</tspan></tspan></tspan></text>
-        <path
-   fill="#b3b3b3"
+   d="m 12511,12633 230,-688 h -459 z"
+   id="path7183-0" />
+       </g><g
+   transform="translate(2082.3271,-5068.0914)"
+   style="opacity:0.98"
+   id="id5-9-3">
+        <rect
+   class="BoundingBox"
    stroke="none"
-   d="m 24284,13861 h 4230 v 1999 h -4230 z"
-   id="path7210" />
-        <text
-   class="TextShape"
-   id="text7218"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7216"><tspan
-       class="TextPosition"
-       x="25426"
-       y="14558"
-       id="tspan7214"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7212">commit</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 18181,15860 h 2992 v 1999 h -2992 z"
-   id="path7220" />
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 21173,15860 h 3111 v 1999 h -3111 z"
-   id="path7222" />
-        <text
-   class="TextShape"
-   id="text7230"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7228"><tspan
-       class="TextPosition"
-       x="21880"
-       y="16557"
-       id="tspan7226"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7224">master</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 24284,15860 h 4230 v 1999 h -4230 z"
-   id="path7232" />
-        <text
-   class="TextShape"
-   id="text7240"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7238"><tspan
-       class="TextPosition"
-       x="25288"
-       y="16557"
-       id="tspan7236"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7234">d10dd64</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 18181,17859 h 2992 v 2001 h -2992 z"
-   id="path7242" />
+   fill="none"
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect7179-9-9" />
         
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 21173,17859 h 3111 v 2001 h -3111 z"
-   id="path7252" />
-        <text
-   class="TextShape"
-   id="text7260"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7258"><tspan
-       class="TextPosition"
-       x="22197"
-       y="18556"
-       id="tspan7256"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7254">idea</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 24284,17859 h 4230 v 2001 h -4230 z"
-   id="path7262" />
-        <text
-   class="TextShape"
-   id="text7270"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7268"><tspan
-       class="TextPosition"
-       x="25322"
-       y="18556"
-       id="tspan7266"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7264">5a95c45</tspan></tspan></tspan></text>
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="M 18171,13861 H 28524"
-   id="path7272" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 18181,13851 v 6019"
-   id="path7274" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 21173,13851 v 6019"
-   id="path7276" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 24284,13851 v 6019"
-   id="path7278" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 28514,13851 v 6019"
-   id="path7280" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="M 18171,15860 H 28524"
-   id="path7282" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="M 18171,17859 H 28524"
-   id="path7284" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="M 18171,19860 H 28524"
-   id="path7286" />
-       <text
-   xml:space="preserve"
-   style="font-size:317.5px;fill:#000000;stroke-width:746.707"
-   x="19157.221"
-   y="20961.609"
-   id="text1413"><tspan
-     sodipodi:role="line"
-     id="tspan1411"
-     style="stroke-width:746.707"
-     x="19157.221"
-     y="20961.609" /></text><text
-   xml:space="preserve"
-   style="font-size:705.556px;fill:#00ff00;stroke-width:746.707"
-   x="19003.656"
-   y="21000"
-   id="text1467"><tspan
-     sodipodi:role="line"
-     id="tspan1465"
-     style="font-size:705.556px;fill:#00ff00;stroke-width:746.707"
-     x="19003.656"
-     y="21000" /></text><text
-   xml:space="preserve"
-   style="font-size:705.556px;fill:#00ff00;stroke-width:746.707"
-   x="17122.486"
-   y="22842.779"
-   id="text1573"><tspan
-     sodipodi:role="line"
-     id="tspan1571"
-     style="fill:#000080;stroke-width:746.707"
-     x="17122.486"
-     y="22842.779">Head -&gt; another-idea</tspan></text></g>
+        
+       </g>
 </svg>

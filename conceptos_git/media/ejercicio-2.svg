@@ -10,7 +10,7 @@
    stroke-linejoin="round"
    xml:space="preserve"
    id="svg7300"
-   sodipodi:docname="ejercicio_git.svg"
+   sodipodi:docname="ejercicio-2.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -36,9 +36,9 @@
    inkscape:window-height="963"
    id="namedview7302"
    showgrid="false"
-   inkscape:zoom="0.68917659"
-   inkscape:cx="600.71686"
-   inkscape:cy="382.34032"
+   inkscape:zoom="0.97357088"
+   inkscape:cx="596.25859"
+   inkscape:cy="383.63925"
    inkscape:window-x="0"
    inkscape:window-y="38"
    inkscape:window-maximized="0"
@@ -425,7 +425,7 @@
    class="BackgroundObjects" />
   </g>
  </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="g6917">
         <rect
@@ -607,7 +607,7 @@
    d="m 4932,19928 h 6280"
    id="path6915" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="g6997">
         <rect
@@ -789,7 +789,189 @@
    d="M 1062,14947 H 7342"
    id="path6995" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(7500.5816,-9658.4798)"
+   style="opacity:0.98"
+   id="g6997-8">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="1070"
+   y="12740"
+   width="6265"
+   height="2210"
+   id="rect6921-4" />
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 1072,12742 h 2310 v 735 H 1072 Z"
+   id="path6923-0" />
+        <text
+   class="TextShape"
+   id="text6931-4"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan6929-6"><tspan
+       class="TextPosition"
+       x="1580"
+       y="13249"
+       id="tspan6927-4"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan6925-6">commit</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 3382,12742 h 3950 v 735 H 3382 Z"
+   id="path6933-4" />
+        <text
+   class="TextShape"
+   id="text6941-3"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan6939-8"><tspan
+       class="TextPosition"
+       x="4642"
+       y="13249"
+       id="tspan6937-4"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan6935-0">4m34c7</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 1072,13477 h 2310 v 735 H 1072 Z"
+   id="path6943-0" />
+        <text
+   class="TextShape"
+   id="text6951-9"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan6949-3"><tspan
+       class="TextPosition"
+       x="1876"
+       y="13984"
+       id="tspan6947-7"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan6945-5">date</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 3382,13477 h 3950 v 735 H 3382 Z"
+   id="path6953-7" />
+        <text
+   class="TextShape"
+   id="text6961-2"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan6959-9"><tspan
+       class="TextPosition"
+       x="3835"
+       y="13984"
+       id="tspan6957-7"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan6955-5">22:03 06-07-2020</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 1072,14212 h 2310 v 735 H 1072 Z"
+   id="path6963-6" />
+        <text
+   class="TextShape"
+   id="text6971-5"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan6969-3"><tspan
+       class="TextPosition"
+       x="1512"
+       y="14719"
+       id="tspan6967-0"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan6965-4">message</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 3382,14212 h 3950 v 735 H 3382 Z"
+   id="path6973-8" />
+        <text
+   class="TextShape"
+   id="text6981-5"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan6979-5"><tspan
+       class="TextPosition"
+       x="4449"
+       y="14719"
+       id="tspan6977-5"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan6975-4">CMerge</tspan></tspan></tspan></text>
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 1062,12742 H 7342"
+   id="path6983-2" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 1072,12732 v 2225"
+   id="path6985-1" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 3382,12732 v 2225"
+   id="path6987-9" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 7332,12732 v 2225"
+   id="path6989-2" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 1062,13477 H 7342"
+   id="path6991-4" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 1062,14212 H 7342"
+   id="path6993-5" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 1062,14947 H 7342"
+   id="path6995-8" />
+       </g><g
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="g7077">
         <rect
@@ -971,7 +1153,7 @@
    d="m 9943,14905 h 6280"
    id="path7075" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="g7157">
         <rect
@@ -1153,7 +1335,7 @@
    d="m 9894,9883 h 6280"
    id="path7155" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="id3">
         <rect
@@ -1178,7 +1360,7 @@
    d="m 7431,17586 -432,-583 -264,376 z"
    id="path7165" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="id4">
         <rect
@@ -1203,7 +1385,7 @@
    d="m 7431,17586 715,-117 -213,-405 z"
    id="path7174" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(5598.3769,-1419.099)"
    style="opacity:0.98"
    id="id5">
         <rect
@@ -1228,7 +1410,59 @@
    d="m 12511,12633 230,-688 h -459 z"
    id="path7183" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="matrix(1,0,0,2.0514451,-1576.7429,-14779.601)"
+   style="opacity:0.98"
+   id="id5-6">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect7179-2" />
+        <path
+   fill="none"
+   stroke="#3465a4"
+   stroke-width="106"
+   stroke-linejoin="round"
+   d="m 12511,9839 v 2136"
+   id="path7181-5" />
+        <path
+   fill="#3465a4"
+   stroke="none"
+   d="m 12511,12633 230,-688 h -459 z"
+   id="path7183-1" />
+       </g><g
+   transform="matrix(0.51516804,-1.3065349,1.0204119,0.33701031,-3853.4697,18284.364)"
+   style="opacity:0.98"
+   id="id5-6-3"
+   inkscape:transform-center-x="-36.447029"
+   inkscape:transform-center-y="-33.741003">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect7179-2-9" />
+        <path
+   fill="none"
+   stroke="#3465a4"
+   stroke-width="106"
+   stroke-linejoin="round"
+   d="m 12511,9839 v 2136"
+   id="path7181-5-7" />
+        <path
+   fill="#3465a4"
+   stroke="none"
+   d="m 12511,12633 230,-688 h -459 z"
+   id="path7183-1-3" />
+       </g><g
+   transform="translate(163.05952,-4354.1704)"
    style="opacity:0.98"
    id="g7288">
         <rect
@@ -1240,185 +1474,33 @@
    width="10338"
    height="6004"
    id="rect7188" />
-        <path
-   fill="#b3b3b3"
-   stroke="none"
-   d="m 18181,13861 h 2992 v 1999 h -2992 z"
-   id="path7190" />
-        <text
-   class="TextShape"
-   id="text7198"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7196"><tspan
-       class="TextPosition"
-       x="18776"
-       y="14558"
-       id="tspan7194"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7192">current</tspan></tspan></tspan></text>
-        <path
-   fill="#b3b3b3"
-   stroke="none"
-   d="m 21173,13861 h 3111 v 1999 h -3111 z"
-   id="path7200" />
-        <text
-   class="TextShape"
-   id="text7208"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7206"><tspan
-       class="TextPosition"
-       x="21863"
-       y="14558"
-       id="tspan7204"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7202">branch</tspan></tspan></tspan></text>
-        <path
-   fill="#b3b3b3"
-   stroke="none"
-   d="m 24284,13861 h 4230 v 1999 h -4230 z"
-   id="path7210" />
-        <text
-   class="TextShape"
-   id="text7218"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7216"><tspan
-       class="TextPosition"
-       x="25426"
-       y="14558"
-       id="tspan7214"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7212">commit</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 18181,15860 h 2992 v 1999 h -2992 z"
-   id="path7220" />
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 21173,15860 h 3111 v 1999 h -3111 z"
-   id="path7222" />
-        <text
-   class="TextShape"
-   id="text7230"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7228"><tspan
-       class="TextPosition"
-       x="21880"
-       y="16557"
-       id="tspan7226"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7224">master</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 24284,15860 h 4230 v 1999 h -4230 z"
-   id="path7232" />
-        <text
-   class="TextShape"
-   id="text7240"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7238"><tspan
-       class="TextPosition"
-       x="25288"
-       y="16557"
-       id="tspan7236"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7234">d10dd64</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 18181,17859 h 2992 v 2001 h -2992 z"
-   id="path7242" />
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 21173,17859 h 3111 v 2001 h -3111 z"
-   id="path7252" />
-        <text
-   class="TextShape"
-   id="text7260"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7258"><tspan
-       class="TextPosition"
-       x="22197"
-       y="18556"
-       id="tspan7256"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7254">idea</tspan></tspan></tspan></text>
-        <path
-   fill="#e6e6e6"
-   stroke="none"
-   d="m 24284,17859 h 4230 v 2001 h -4230 z"
-   id="path7262" />
-        <text
-   class="TextShape"
-   id="text7270"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7268"><tspan
-       class="TextPosition"
-       x="25322"
-       y="18556"
-       id="tspan7266"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7264">5a95c45</tspan></tspan></tspan></text>
-        <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,13861 H 28524"
-   id="path7272" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 18181,13851 v 6019"
+   d="m 23779.377,16731.718 v 6019"
    id="path7274" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 21173,13851 v 6019"
-   id="path7276" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="m 24284,13851 v 6019"
-   id="path7278" />
+        
+        
         <path
    fill="none"
    stroke="#ffffff"
@@ -1426,20 +1508,8 @@
    stroke-linejoin="round"
    d="m 28514,13851 v 6019"
    id="path7280" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="M 18171,15860 H 28524"
-   id="path7282" />
-        <path
-   fill="none"
-   stroke="#ffffff"
-   stroke-width="20"
-   stroke-linejoin="round"
-   d="M 18171,17859 H 28524"
-   id="path7284" />
+        
+        
         <path
    fill="none"
    stroke="#ffffff"
@@ -1467,15 +1537,30 @@
      id="tspan1465"
      style="font-size:705.556px;fill:#00ff00;stroke-width:746.707"
      x="19003.656"
-     y="21000" /></text><text
+     y="21000" /></text><path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 18179.849,20040.095 h 2992 v 2001 h -2992 z"
+   id="path7242-7"
+   style="opacity:0.98;fill:#ffffff;fill-opacity:0" /><text
    xml:space="preserve"
-   style="font-size:705.556px;fill:#00ff00;stroke-width:746.707"
-   x="17122.486"
-   y="22842.779"
-   id="text1573"><tspan
+   style="font-size:705.556px;fill:#00ff00;fill-opacity:0;stroke-width:746.707"
+   x="19485.613"
+   y="20959.064"
+   id="text5028"><tspan
      sodipodi:role="line"
-     id="tspan1571"
-     style="fill:#000080;stroke-width:746.707"
-     x="17122.486"
-     y="22842.779">Head -&gt; another-idea</tspan></text></g>
+     id="tspan5026"
+     style="fill:#00ff00;stroke-width:746.707"
+     x="19485.613"
+     y="20959.064" /></text><text
+   xml:space="preserve"
+   style="font-size:705.556px;fill:#00ff00;fill-opacity:0;stroke-width:746.707"
+   x="15327.595"
+   y="21448.244"
+   id="text5200"><tspan
+     sodipodi:role="line"
+     id="tspan5198"
+     style="fill:#26ff26;fill-opacity:0;stroke-width:746.707"
+     x="15327.595"
+     y="21448.244">x</tspan></text></g>
 </svg>

@@ -1,0 +1,5 @@
+* 302ef31 (HEAD -> another-idea, idea) Crazy idea
+| * f4f4562 (master) Fix bug
+|/  
+* ee52abf Add readme
+* dc50ff9 Initial commit

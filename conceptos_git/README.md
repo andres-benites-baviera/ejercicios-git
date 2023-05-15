@@ -61,6 +61,19 @@ momento todo los commits que se realicen serán añadidos a la nueva rama ya que
 
 Podemos observar el valor de **HEAD** con el comando `git show head`. Otra forma de entender el funcionamiento del puntero HEAD es que cuando realizamos un commit el puntero avanza a la siguiente posición en el commit tree.
 
+```
+* 5a95c45 (HEAD -> another-idea, idea) Crazy idea
+| * d10dd64 (master) Fix bug
+|/
+* 929993 Add readme
+* 360e40d Initial commit
+```
+
+<!-- insert imgagee -->
+
+![ejercicio_git_ejemplo](media/ejercicio-1.svg)
+
+![ejercicio_git_ejemplo](media/ej1.png)
 #### Pregunta 2
 
 Supongamos que hemos decidido integrar los cambios de la rama `idea` a `master`, así que cambiamos de rama y ejecutamos un merge:
@@ -79,6 +92,23 @@ solución anterior (Puntero HEAD) posteriormente ejecutamos el comando `git merg
 En el caso de que las ramas no hayan divergido, es decir, que exista un proceso lineal de extremo a extremo, se podría realizar un avance 
 rápida como mecanismo de fusión de estos repositorios. Caso contrario, se realiza un **3-way merge** en el que anexa un nuevo nodo integrando estos cambios.
 
+
+##### Fast Forward (Default)
+![ejercicio_git_ejemplo](media/ejercicio-2-ff.svg)
+
+##### 3-way merge
+![ejercicio_git_ejemplo](media/ejercicio-2.svg)
+![ejercicio_git_ejemplo](media/ej2.png)
+
+```
+*   4m34c7 (HEAD -> master) Merge branch 'idea'
+|\
+| * 5a95c45 (idea) Crazy idea
+* | d10dd64 Fix bug
+|/
+* 929993 Add readme
+* 360e40d Initial commit
+```
 En el caso de existir conflictos, git nos lo hará saber a través de un <font color='red'>MERGE CONFLICT</font> . 
 
 Existen varias **alternativas** para solucionar este problema podemos desde realizar cambios puntuales en uno ( o varios) de los archivos 'conflictivos'
@@ -104,9 +134,12 @@ Otras posibles opciones de reset son:
 1. `--soft`, únicamente el HEAD
 1. `--keep`, HEAD pero mantiene cambios locales 
 
+![ejercicio_git_ejemplo](media/ejercicio-3.svg)
 
+![ejercicio_git_ejemplo](media/ej3.png)
 
-Cambia el diagrama para representar el nuevo estado del repositorio: tanto el grafo de commits como la tabla de branches pueden cambiar.
-
-Marta was here4
-Jon Ander was here2
+```
+* d10dd64 (HEAD -> idea, master) Fix bug
+* 929993 Add readme
+* 360e40d Initial commit
+```
